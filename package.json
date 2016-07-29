@@ -1,0 +1,17 @@
+{
+  "name": "in-docker",
+  "description": "Lets us know if we're running inside a docker container.",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo 'TODO'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orangemug/in-docker.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
