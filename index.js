@@ -3,7 +3,7 @@ var fs = require("fs");
 
 var exists;
 try {
-  fs.statSync("/..dockerinit");
+  fs.statSync("/.dockerenv");
   exists = true;
 } catch(err) {
   exists = false;
